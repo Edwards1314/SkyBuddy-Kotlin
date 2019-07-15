@@ -14,8 +14,12 @@ import com.google.android.gms.common.util.Strings
 import java.util.ArrayList
 
 import com.example.yuhboi.skybuddy_v2_attendant.IncomingActivity.Companion.itemNames
+import com.google.firebase.database.DataSnapshot
+import com.google.firebase.database.FirebaseDatabase
 
 class CustomAdapter(private val context: Context, list: ArrayList<String>) : BaseAdapter(), ListAdapter {
+    internal var mDatabase = FirebaseDatabase.getInstance().getReference("users")
+
     private var list = ArrayList<String>()
 
     init {
@@ -26,7 +30,7 @@ class CustomAdapter(private val context: Context, list: ArrayList<String>) : Bas
         return list.size
     }
 
-    override fun getItem(pos: Int): Any {
+    override fun getItem(pos: Int): String {
         return list[pos]
     }
 
@@ -52,9 +56,13 @@ class CustomAdapter(private val context: Context, list: ArrayList<String>) : Bas
         rmvBtn.setOnClickListener {
             //do something
             list.remove(getItem(position))
+            //removeItem(position)
             notifyDataSetChanged()
         }
 
         return view
     }
+//    fun removeItem(position: Int){
+//        mDatabase.child(getItem(position)).removeValue()
+//    }
 }
