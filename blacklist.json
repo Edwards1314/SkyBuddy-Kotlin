@@ -2,12 +2,5 @@
   "AAFeatureAR5WalletNative",
   "AAFeatureAR5PromotionsNative",
   "AAFeatureNew500MileUpgradesUI",
-  "AAFeatureDREligibilityService",
-  "AAFeatureAppShortcutsEnabled",
-  "AAFeatureDeniedBoarding",
-  "AAFeatureSSOAppSpinner",
-  "AAFeatureCloudLogin",
-  "AAFeatureCloudLoginProtection",
-  "AAFeatureFlifoHighSpeedWifiAndPower-Android",
-  "AAFeaturePaymentManager"
+  "AAFeatureDREligibilityService"
 ]
