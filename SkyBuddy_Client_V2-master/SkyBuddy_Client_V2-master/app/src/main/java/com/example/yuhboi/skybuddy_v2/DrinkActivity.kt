@@ -9,6 +9,8 @@ import android.widget.ListView
 
 import java.util.ArrayList
 
+//Comment to check Automatic PR branch updating
+
 class DrinkActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
