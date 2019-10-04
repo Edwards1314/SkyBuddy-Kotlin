@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b74c07-1799-42cf-873f-f075c8862f49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SkyBuddy_Client_V2-master/SkyBuddy_Client_V2-master/app/src/main/java/com/example/yuhboi/skybuddy_v2/DrinkActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/SkyBuddy_Client_V2-master/SkyBuddy_Client_V2-master/app/src/main/java/com/example/yuhboi/skybuddy_v2/DrinkActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,24 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SkyBuddy_Client_V2-master/SkyBuddy_Client_V2-master/app/src/main/java/com/example/yuhboi/skybuddy_v2/DrinkActivity.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="6" selection-end-line="43" />
-              <folding>
-                <element signature="e#40#235#0" expanded="true" />
-              </folding>
+              <caret column="70" selection-start-column="70" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -37,12 +26,27 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/SkyBuddy_Client_V2-master/SkyBuddy_Client_V2-master/app/src/main/java/com/example/yuhboi/skybuddy_v2/DrinkActivity.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
       </list>
     </option>
   </component>
@@ -56,6 +60,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,102 +74,10 @@
               <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="yuhboi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SkyBuddy-Kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SkyBuddy-Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="SkyBuddy_Client_V2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="yuhboi" type="462c0819:PsiDirectoryNode" />
-              <item name="skybuddy_v2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -198,35 +112,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="954" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1920" y="-41" width="1920" height="984" extended-state="6" />
     <layout>
-      <window_info id="Build Variants" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33394384" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32964718" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="Resources Explorer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Logcat" />
+      <window_info id="Build Variants" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32896304" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <caret column="70" selection-start-column="70" selection-end-column="70" />
         </state>
       </provider>
     </entry>
